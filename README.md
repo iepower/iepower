@@ -8,7 +8,7 @@
 ## Connect with Me
 - 🌍 [Personal Website](https://www.cv.mypuhi.org/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevehazi-beni/)
-- 📦 [HackTheBox](https://www.linkedin.com/in/kevehazi-beni/)
+- 📦 [HackTheBox](https://app.hackthebox.com/profile/835771)
 
 <!--
 **iepower/iepower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
