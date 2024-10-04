@@ -1,7 +1,7 @@
 # 👋 Hi. Welcome to my GitHub profile.
 
 ## About Me
-- 🎓 Software Science Engineer Student
+- 🎓 Computer Science Engineer Student
 - 🛡️ Offensive Security Enthusiast
 - ☁️ Cloud Infrastructure Manager
 
