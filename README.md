@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi. Welcome to my GitHub profile.
+
+## About Me
+- 🎓 Software Science Engineer Student
+- 🛡️ Offensive Security Enthusiast
+- ☁️ Cloud Infrastructure Manager
+
+## Connect with Me
+- 🌍 [Personal Website](https://www.cv.mypuhi.org/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevehazi-beni/)
+- 📦 [HackTheBox](https://www.linkedin.com/in/kevehazi-beni/)
 
 <!--
 **iepower/iepower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🛡️ Offensive Security Professional
+- ✍️ Blog Author
+- 🧩 CTF Player
 -->
